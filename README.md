@@ -1,24 +1,7 @@
-# README
+Welcome to my flexbox example!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Please note that the links in the navigation bar don't go anywhere. This is an example of using flexbox to style a website and is intended for use along with my blog post on Flexbox. You can read my blog post at rubyisshiny.tumblr.com.
 
-Things you may want to cover:
+For more information about me, please visit my blog or my personal website at www.kristinydonovan.com.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thanks!
